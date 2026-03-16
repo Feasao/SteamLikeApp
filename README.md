@@ -10,7 +10,7 @@ A desktop app that recommends Steam games based on your playtime, genres and lib
 ## Running
 Run the app:
 ```bash
-python app/SteamLike.py
+./dist/SteamLike.exe
 ```
 
 On first launch you will be prompted to enter your Steam API key and Steam ID. These are stored securely in your OS keychain.
